@@ -76,8 +76,3 @@
 </p>
 
 ---
-
-## 🧿 Fun Animated Divider  
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
-</p>
